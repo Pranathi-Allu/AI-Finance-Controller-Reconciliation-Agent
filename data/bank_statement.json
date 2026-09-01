@@ -1,0 +1,429 @@
+[
+  {
+    "bank_entry_id": "bank_IQ0Wobtqn62tOy",
+    "date": "2026-08-04",
+    "narration": "RZP/vj7uff/SETL KX9N",
+    "amount": 20731.03,
+    "reference_number": "REF4CqpIqK3"
+  },
+  {
+    "bank_entry_id": "bank_Enydx9qWCA79IS",
+    "date": "2026-08-05",
+    "narration": "RZP/1eoPni/SETL 850K",
+    "amount": 22853.81,
+    "reference_number": "REFjs8JHUdK"
+  },
+  {
+    "bank_entry_id": "bank_raVNqTIAae24HZ",
+    "date": "2026-08-22",
+    "narration": "RZP/PstUeC/SETL 40FA",
+    "amount": 24371.74,
+    "reference_number": "REFKjht3X13"
+  },
+  {
+    "bank_entry_id": "bank_12WnXRCI4hiCGI",
+    "date": "2026-08-10",
+    "narration": "NEFT CR UTR465797626609 RAZORPAY SETL",
+    "amount": 8063.66,
+    "reference_number": "UTR465797626609"
+  },
+  {
+    "bank_entry_id": "bank_iCdxnuVxUZpfbH",
+    "date": "2026-08-14",
+    "narration": "NEFT CR UTR408379085492 RAZORPAY SETL",
+    "amount": 8271.84,
+    "reference_number": "UTR408379085492"
+  },
+  {
+    "bank_entry_id": "bank_rBUJPuEuEvqrK2",
+    "date": "2026-08-13",
+    "narration": "RZP/gbtP7y/SETL KTP5",
+    "amount": 17536.01,
+    "reference_number": "REFIGlozIoD"
+  },
+  {
+    "bank_entry_id": "bank_Wx4sKAJd7gVMqf",
+    "date": "2026-08-02",
+    "narration": "RZP/TrKVL8/SETL IZKM",
+    "amount": 20372.51,
+    "reference_number": "REFoIjzQDcr"
+  },
+  {
+    "bank_entry_id": "bank_r1eoqXKXmhnjqi",
+    "date": "2026-08-02",
+    "narration": "RZP/DXKZ5B/SETL DECOY",
+    "amount": 20372.42,
+    "reference_number": "REFsyqHBL3T"
+  },
+  {
+    "bank_entry_id": "bank_SFqZ8pIx5F21rW",
+    "date": "2026-08-21",
+    "narration": "RZP/gjzEPy/SETL CHZE",
+    "amount": 18632.97,
+    "reference_number": "REFz5FYrsK9"
+  },
+  {
+    "bank_entry_id": "bank_EjHvIHCtlRJoWc",
+    "date": "2026-08-21",
+    "narration": "RZP/URYXPY/SETL DECOY",
+    "amount": 18634.41,
+    "reference_number": "REFEcFK12BG"
+  },
+  {
+    "bank_entry_id": "bank_DoJJ9s8OrJQUdL",
+    "date": "2026-08-15",
+    "narration": "RZP/9UAgN2/SETL P0MX",
+    "amount": 10992.17,
+    "reference_number": "REFE4rXLvNM"
+  },
+  {
+    "bank_entry_id": "bank_QSOZM4OtBJTfsU",
+    "date": "2026-08-15",
+    "narration": "RZP/KIH8G4/SETL DECOY",
+    "amount": 10993.16,
+    "reference_number": "REFpZDYUvh7"
+  },
+  {
+    "bank_entry_id": "bank_6ZfnN8du9WmZIK",
+    "date": "2026-08-06",
+    "narration": "NEFT CR UTR193408146794 RAZORPAY SETL",
+    "amount": 10138.85,
+    "reference_number": "UTR193408146794"
+  },
+  {
+    "bank_entry_id": "bank_zfAPxj5eZffTYI",
+    "date": "2026-08-18",
+    "narration": "RZP/BwKCnM/SETL BOVC",
+    "amount": 17830.92,
+    "reference_number": "REFKIuhvPU1"
+  },
+  {
+    "bank_entry_id": "bank_asnipuaUkxRFZX",
+    "date": "2026-08-21",
+    "narration": "RZP/qlRtva/SETL PCYL",
+    "amount": 21270.49,
+    "reference_number": "REFe1cb51JJ"
+  },
+  {
+    "bank_entry_id": "bank_BYOtDjdg3vSFkp",
+    "date": "2026-08-22",
+    "narration": "RAZRPY SETL MFCIX3",
+    "amount": 3823.75,
+    "reference_number": "REFBBGjxrzu"
+  },
+  {
+    "bank_entry_id": "bank_YDZw69CrxG7YXi",
+    "date": "2026-08-06",
+    "narration": "RZP/XYPZTQ/SETL UBHT",
+    "amount": 12987.02,
+    "reference_number": "REFpN2Ig00r"
+  },
+  {
+    "bank_entry_id": "bank_pbWvTMVTucHYkW",
+    "date": "2026-08-05",
+    "narration": "RZP/ZRiRBa/SETL YDN8",
+    "amount": 2202.64,
+    "reference_number": "REFCRNYdWCs"
+  },
+  {
+    "bank_entry_id": "bank_6xVJGyOphTExIq",
+    "date": "2026-08-18",
+    "narration": "RZP/E5GXTe/SETL XJLQ",
+    "amount": 14821.36,
+    "reference_number": "REFqB9r4Eh0"
+  },
+  {
+    "bank_entry_id": "bank_rMMfNKKkM3u5c1",
+    "date": "2026-08-20",
+    "narration": "NEFT CR UTR975780964638 RAZORPAY SETL",
+    "amount": 7751.13,
+    "reference_number": "UTR975780964638"
+  },
+  {
+    "bank_entry_id": "bank_VwyJmIeFVr9Qh8",
+    "date": "2026-08-21",
+    "narration": "RAZRPY SETL DH0A2T",
+    "amount": 12711.76,
+    "reference_number": "REFyXv6UmFF"
+  },
+  {
+    "bank_entry_id": "bank_1QXqE7rs68VRQE",
+    "date": "2026-08-05",
+    "narration": "RZP/KXSQbD/SETL CHHP",
+    "amount": 23614.87,
+    "reference_number": "REFDI5SrJH3"
+  },
+  {
+    "bank_entry_id": "bank_HE60DlgkCplTXJ",
+    "date": "2026-08-03",
+    "narration": "NEFT CR UTR168467220762 RAZORPAY SETL",
+    "amount": 23876.29,
+    "reference_number": "UTR168467220762"
+  },
+  {
+    "bank_entry_id": "bank_CFCdCYSyYUJcvd",
+    "date": "2026-08-20",
+    "narration": "RAZRPY SETL HMKFFY",
+    "amount": 7791.83,
+    "reference_number": "REF95e5bzVV"
+  },
+  {
+    "bank_entry_id": "bank_GzrIKTkQIcvNxG",
+    "date": "2026-08-03",
+    "narration": "NEFT CR UTR718478021057 RAZORPAY SETL",
+    "amount": 22899.55,
+    "reference_number": "UTR718478021057"
+  },
+  {
+    "bank_entry_id": "bank_zInjq5JzjuxZEO",
+    "date": "2026-08-22",
+    "narration": "NEFT CR UTR622939217779 RAZORPAY SETL",
+    "amount": 14462.75,
+    "reference_number": "UTR622939217779"
+  },
+  {
+    "bank_entry_id": "bank_dakEAWJ1fGcn13",
+    "date": "2026-08-07",
+    "narration": "RZP/oRaFxM/SETL VFXI",
+    "amount": 16372.12,
+    "reference_number": "REFDce53Ic5"
+  },
+  {
+    "bank_entry_id": "bank_t7KUSyekoZy3uU",
+    "date": "2026-08-07",
+    "narration": "RZP/I9SF8D/SETL DECOY",
+    "amount": 16371.93,
+    "reference_number": "REFZvV7yVbq"
+  },
+  {
+    "bank_entry_id": "bank_uMXuuY18it6mt7",
+    "date": "2026-08-14",
+    "narration": "NEFT CR UTR053323099951 RAZORPAY SETL",
+    "amount": 8827.32,
+    "reference_number": "UTR053323099951"
+  },
+  {
+    "bank_entry_id": "bank_Fvbgz7h6itCmDD",
+    "date": "2026-08-23",
+    "narration": "RZP/XzENpO/SETL BYVK",
+    "amount": 17541.36,
+    "reference_number": "REFBRtsYh0O"
+  },
+  {
+    "bank_entry_id": "bank_EitBdwaiY7FEQz",
+    "date": "2026-08-21",
+    "narration": "NEFT CR UTR856565386872 RAZORPAY SETL",
+    "amount": 6619.14,
+    "reference_number": "UTR856565386872"
+  },
+  {
+    "bank_entry_id": "bank_pSZVPEJqzCN2fF",
+    "date": "2026-08-06",
+    "narration": "RZP/9gZUs9/SETL 91H1",
+    "amount": 11138.18,
+    "reference_number": "REFr6w6uaVT"
+  },
+  {
+    "bank_entry_id": "bank_Ui9iGaOBSMjzQ1",
+    "date": "2026-08-12",
+    "narration": "RZP/1Ba7mQ/SETL T2IV",
+    "amount": 3473.3,
+    "reference_number": "REFfgUKx7ti"
+  },
+  {
+    "bank_entry_id": "bank_B7op5hLdPOkaia",
+    "date": "2026-08-19",
+    "narration": "NEFT CR UTR679700200756 RAZORPAY SETL",
+    "amount": 9104.63,
+    "reference_number": "UTR679700200756"
+  },
+  {
+    "bank_entry_id": "bank_pw89WTHXj5bHNQ",
+    "date": "2026-08-09",
+    "narration": "RZP/jV3PhT/SETL WSWT",
+    "amount": 353.89,
+    "reference_number": "REFauVxTtm8"
+  },
+  {
+    "bank_entry_id": "bank_hdWnmyQ6fK4e9m",
+    "date": "2026-08-04",
+    "narration": "RZP/5yZuCo/SETL IFGX",
+    "amount": 23047.73,
+    "reference_number": "REFOYf0Yh6d"
+  },
+  {
+    "bank_entry_id": "bank_tTwKRvJi6ZY8Hk",
+    "date": "2026-08-14",
+    "narration": "NEFT CR UTR735320508284 RAZORPAY SETL",
+    "amount": 11860.54,
+    "reference_number": "UTR735320508284"
+  },
+  {
+    "bank_entry_id": "bank_k2fRN2Bqpepgax",
+    "date": "2026-08-08",
+    "narration": "NEFT CR UTR437586368372 RAZORPAY SETL",
+    "amount": 15709.17,
+    "reference_number": "UTR437586368372"
+  },
+  {
+    "bank_entry_id": "bank_xlcBqZIjRfPYzU",
+    "date": "2026-08-03",
+    "narration": "RZP/3fKMDb/SETL QNYX",
+    "amount": 23020.9,
+    "reference_number": "REFodyG7Q6J"
+  },
+  {
+    "bank_entry_id": "bank_srERg1i8BZqzOl",
+    "date": "2026-08-05",
+    "narration": "RAZRPY SETL OU53BY",
+    "amount": 13605.88,
+    "reference_number": "REFnZTV1YFj"
+  },
+  {
+    "bank_entry_id": "bank_KrQDururO7OlGo",
+    "date": "2026-08-02",
+    "narration": "RAZRPY SETL KA970I",
+    "amount": 16905.01,
+    "reference_number": "REFd1YztibE"
+  },
+  {
+    "bank_entry_id": "bank_mVJjWWiAAADaHT",
+    "date": "2026-08-09",
+    "narration": "RZP/I463On/SETL 9TDC",
+    "amount": 5677.96,
+    "reference_number": "REF63UGbaTo"
+  },
+  {
+    "bank_entry_id": "bank_RscEm5uaP4ZPjf",
+    "date": "2026-08-11",
+    "narration": "RZP/9nbFhS/SETL MQGM",
+    "amount": 19395.74,
+    "reference_number": "REFFSgpo9sC"
+  },
+  {
+    "bank_entry_id": "bank_x0I9dNj001eEo8",
+    "date": "2026-08-12",
+    "narration": "RZP/qx0XOX/SETL PPVP",
+    "amount": 3018.54,
+    "reference_number": "REFdnNzoCXB"
+  },
+  {
+    "bank_entry_id": "bank_K5W4QkYgOLt2zL",
+    "date": "2026-08-21",
+    "narration": "RZP/MDOShV/SETL ATIA",
+    "amount": 5639.83,
+    "reference_number": "REFQpyvsXiL"
+  },
+  {
+    "bank_entry_id": "bank_pMW1Z4ROUHLW7s",
+    "date": "2026-08-09",
+    "narration": "RZP/6SP3H2/SETL 8TIA",
+    "amount": 10478.67,
+    "reference_number": "REFlQlkFxAI"
+  },
+  {
+    "bank_entry_id": "bank_KH6sU4vzOFjnZm",
+    "date": "2026-08-11",
+    "narration": "RZP/Y4zBzt/SETL IIHA",
+    "amount": 9685.6,
+    "reference_number": "REFlX0059CI"
+  },
+  {
+    "bank_entry_id": "bank_P0YMkFBl6O7TDw",
+    "date": "2026-08-05",
+    "narration": "RAZRPY SETL TSCFYF",
+    "amount": 21463.99,
+    "reference_number": "REFnEdwcm4w"
+  },
+  {
+    "bank_entry_id": "bank_DnziKVMFkQ5Kex",
+    "date": "2026-08-12",
+    "narration": "RZP/EDLFik/SETL 6NLD",
+    "amount": 2151.09,
+    "reference_number": "REFibG4QZLl"
+  },
+  {
+    "bank_entry_id": "bank_JWyi1hoW6gFWXM",
+    "date": "2026-08-15",
+    "narration": "NEFT CR UTR055207055328 RAZORPAY SETL",
+    "amount": 22240.55,
+    "reference_number": "UTR055207055328"
+  },
+  {
+    "bank_entry_id": "bank_2YJR7IVU7CCKbh",
+    "date": "2026-08-03",
+    "narration": "RZP/a05GmW/SETL S6X7",
+    "amount": 12604.87,
+    "reference_number": "REFeN9Pot7G"
+  },
+  {
+    "bank_entry_id": "bank_oDMwEnRx0rliJo",
+    "date": "2026-08-13",
+    "narration": "RZP/Mjg5PP/SETL ULQI",
+    "amount": 15095.66,
+    "reference_number": "REFgqoAxj7j"
+  },
+  {
+    "bank_entry_id": "bank_P6Rekgd2IbyVfq",
+    "date": "2026-08-13",
+    "narration": "RZP/pbh17m/SETL ZLBT",
+    "amount": 14180.83,
+    "reference_number": "REFjO2tprMi"
+  },
+  {
+    "bank_entry_id": "bank_rNMqMlbdHlgqST",
+    "date": "2026-08-13",
+    "narration": "RZP/XBwqsa/SETL YZ0L",
+    "amount": 19956.52,
+    "reference_number": "REFojEvtX9C"
+  },
+  {
+    "bank_entry_id": "bank_NRXho8WUXBlQwi",
+    "date": "2026-08-10",
+    "narration": "NEFT CR UTR952618821631 RAZORPAY SETL",
+    "amount": 1309.34,
+    "reference_number": "UTR952618821631"
+  },
+  {
+    "bank_entry_id": "bank_XdMGTZenGgoxlO",
+    "date": "2026-08-03",
+    "narration": "RAZRPY SETL DNWU3Y",
+    "amount": 13290.0,
+    "reference_number": "REFJ6IIUVJP"
+  },
+  {
+    "bank_entry_id": "bank_cYxW5u2A5hVU05",
+    "date": "2026-08-21",
+    "narration": "RZP/UwC7ac/SETL RYFN",
+    "amount": 7152.82,
+    "reference_number": "REFNNdGtJuR"
+  },
+  {
+    "bank_entry_id": "bank_qDTiRbKPckrWMd",
+    "date": "2026-08-16",
+    "narration": "RAZRPY SETL BBMHMG",
+    "amount": 10663.87,
+    "reference_number": "REFOayq0O1b"
+  },
+  {
+    "bank_entry_id": "bank_I6ht2TV2zzB535",
+    "date": "2026-08-10",
+    "narration": "RZP/o8FYM2/SETL I54T",
+    "amount": 21765.84,
+    "reference_number": "REFqWglVLqJ"
+  },
+  {
+    "bank_entry_id": "bank_AMdGiZCShW6Riz",
+    "date": "2026-08-18",
+    "narration": "NEFT CR UTR240733675587 RAZORPAY SETL",
+    "amount": 11326.59,
+    "reference_number": "UTR240733675587"
+  },
+  {
+    "bank_entry_id": "bank_c0PZs5dzlPLQKW",
+    "date": "2026-08-17",
+    "narration": "NEFT CR UTR743746112624 RAZORPAY SETL",
+    "amount": 4605.69,
+    "reference_number": "UTR743746112624"
+  }
+]

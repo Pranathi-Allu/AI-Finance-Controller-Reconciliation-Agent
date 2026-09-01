@@ -1,0 +1,7 @@
+langgraph>=0.2
+openai>=1.40
+pandas>=2.0
+faker>=25.0
+rich>=13.0
+streamlit>=1.35
+razorpay>=1.4
