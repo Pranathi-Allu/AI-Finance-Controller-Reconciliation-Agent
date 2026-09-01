@@ -24,7 +24,7 @@ from datetime import datetime, timedelta
 random.seed(42)
 
 N_PAYMENTS = 60
-FEE_RATE = 0.0236  # Razorpay-like blended fee+GST rate
+FEE_RATE = 0.0236  
 OUT_DIR = os.path.dirname(__file__)
 
 
